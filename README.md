@@ -4,8 +4,8 @@
 <img src="https://github.com/yashthesia/Tank-game-openGL/blob/master/sample-example.gif" width="800" height="500" />
 
 # Presented by
-15BCE120 – Meera Suthar
-15BCE123 – Nitin Tanwar
+15BCE120 – Meera Suthar |
+15BCE123 – Nitin Tanwar |
 15BCE126 – Yash Thesia
 
 # Libraries required
